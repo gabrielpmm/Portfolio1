@@ -1,0 +1,151 @@
+body{
+    background: url('Imagens/background.png');
+}
+
+#efeito{
+    margin-top:680px;
+}
+
+#imagem{
+    
+   margin-left: 180px;
+   margin-top: 220px;
+   position:absolute;
+   
+    
+}
+#imagem-pessoa{
+    
+    margin-top: 180px;
+    margin-left:1000px;
+    float: left;
+    position:absolute;
+    
+   
+}
+
+#imagem-sobre{
+    margin-top: 50px;
+    margin-left:1050px;
+    float: left;
+    position:absolute;
+    
+}
+#pagina-sobre{
+    margin-top: 150px;
+}
+
+#Cargo{
+    color:rgb(238, 238, 238);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 640px;
+    margin-left:445px;
+    font-size: 20px;
+    float: left;
+    position: absolute;
+}
+
+#Cargo2{
+    color:rgb(238, 238, 238);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 640px;
+    margin-left:1090px;
+    font-size: 20px;
+    float: left;
+    position: absolute;
+}
+
+#secretaria{
+    margin-top: 220px;
+    margin-left:400px;
+    float: left;
+    position:absolute;
+    background: #f5f5f5;
+    padding:100px;
+    border-radius: 250px;
+}
+#secretaria2{
+    margin-top: 195px;
+    margin-left:400px;
+    float: left;
+    background: #6515fd;
+    padding:100px;
+    border-radius: 250px;
+}
+
+#decal{
+    margin-top: 205px;
+    margin-left:1050px;
+    float: left;
+    position:absolute;
+    background: #f5f5f5;
+    padding:100px;
+    border-radius: 200px;
+}
+
+#decal2{
+    margin-top: -403px;
+    margin-left:1055px;
+    float: left;
+    background: #6515fd;
+    padding:100px;
+    border-radius: 200px;
+}
+ul{
+    margin-top: 30px;
+    margin-left: 620px;
+    font-size: 25px;
+    
+    
+}
+ul #navegacao{
+    margin:0;
+    padding:0;
+    width: 200px;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    float: left;
+    
+}
+ul a{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0 1em;
+   
+    
+
+}
+
+ul li{
+    float: left;
+    list-style-type: none;
+}
+
+a :hover{
+    color: #6515fd;
+}
+
+#home #navegacao .home a,
+#about #navegacao .about a,
+#experience #navegacao .experience a,
+#projects #navegacao .projects a{
+    color:#fff;
+    background:#6515fd;
+    border-radius: 20px;
+}
+
+#sobre{
+    color:rgb(243, 243, 243);
+    float:left;
+    margin-top:90px;
+    margin-left: 220px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 500px;
+    text-align: center;
+
+}
